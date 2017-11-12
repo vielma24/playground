@@ -1,4 +1,7 @@
 #!/usr/bin/python
+'''Program will intake customer information and account information. Account
+   management will also be added.'''
+
 from datetime import date
 
 #*******************************************************************************
