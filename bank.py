@@ -1,4 +1,7 @@
 #!/usr/bin/python
+'''Program will intake customer information and account information. Account
+   management will also be added.'''
+
 from datetime import date
 
 #*******************************************************************************
@@ -29,7 +32,7 @@ def main():
     The constructor must include 3 arguments as listed below.'''
     aPerson = person('John Doe', (1982, 12, 15), 1)
     aPerson.print_details()
-
+    print "Done!"
     ''' TODO: Obtain the information of 5 new people and store them in a list
         when complete print their details one at a time.'''
 
