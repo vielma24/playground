@@ -6,6 +6,7 @@ This directory contains all files needed to perform Science tasks.
 - Decagon 5TE Soil Sensor
 
 
+
 **5TE Dependencies**
 - Python smbus
 - Python time
