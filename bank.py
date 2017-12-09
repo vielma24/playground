@@ -27,7 +27,7 @@ class person:
 #*******************************************************************************
 
 def main():
-
+    # Test
     '''This is how you create a new Person object and print the details.
     The constructor must include 3 arguments as listed below.'''
     aPerson = person('John Doe', (1982, 12, 15), 1)
